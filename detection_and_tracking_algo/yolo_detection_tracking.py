@@ -1,5 +1,5 @@
 import sys
-print("Python Executable:", sys.executable)qq
+print("Python Executable:", sys.executable)
 
 
 
